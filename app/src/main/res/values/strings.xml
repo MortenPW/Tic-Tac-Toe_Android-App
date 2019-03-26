@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <string name="human">Human</string>
+    <string name="bot">Bot</string>
+    <string name="player_name">Player name</string>
+    <string name="bot_name">TTTBot</string>
+    <string name="player1_symbol">X</string>
+    <string name="player2_symbol">O</string>
+    <string name="empty_symbol"> </string>
+    <string name="player1_symbol_view">X:</string>
+    <string name="player2_symbol_view">O:</string>
+    <string name="time">0.00</string>
+    <string name="score">(0)</string>
+    <string name="turn">\'s turn!</string>
+    <string name="won">\ won!</string>
+    <string name="tie">It\'s a tie!</string>
+    <string name="play">Play</string>
+    <string name="joker">Give me a joke</string>
+    <string name="another_match">Another match?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+
+    <string name="highscore">High Scores</string>
+    <string name="no_scores">No scores registered</string>
+    <string name="reset_scores">Reset high scores</string>
+    <string name="new_highscore">New high score!</string>
+    <string name="new_highscore_message">%1$s got a new high score! Congrats!</string>
+
+</resources>
